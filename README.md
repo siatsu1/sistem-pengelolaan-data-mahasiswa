@@ -26,11 +26,14 @@ Fitur ini digunakan untuk memperbarui data Mahasiswa. Fitur ini dapat digunakan 
 
 ### 4. Delete Data Mahasiswa
 ![fitur_aksi](https://user-images.githubusercontent.com/74439341/216414148-b8a0b41b-cab4-4f7e-a550-a537b0f5e9e4.png)
-Fitur ini digunakan untuk menghapus data Mahasiswa. Pilih data Mahasiswa yang ingin dihapus, kemudian tekan tombol bergambar tong sampah "Delete" untuk menghapus data mahasiswa yang ingin dihapus. Sebelum menghapus maka akan muncul peringatan apakah Yakin akan menghapus data atau tidak.
 ![fitur_warn](https://user-images.githubusercontent.com/74439341/216415820-8fedcd74-ea42-4159-96ee-a3da6a0cea79.png)
+Fitur ini digunakan untuk menghapus data Mahasiswa. Pilih data Mahasiswa yang ingin dihapus, kemudian tekan tombol bergambar tong sampah "Delete" untuk menghapus data mahasiswa yang ingin dihapus. Sebelum menghapus maka akan muncul peringatan apakah Yakin akan menghapus data atau tidak.
+
 
 ### 5. Sorting Data Mahasiswa
 ![fitur_sorting_1](https://user-images.githubusercontent.com/74439341/216417012-067fb0f2-0602-461c-b075-33613c8e4bcd.png)
+-----------------------------------------------------------------------------------------------------------------------------
+
 Fitur ini digunakan untuk mengurutkan data mahasiswa berdasarkan kolom tertentu. Akses fitur ini dengan menekan tombol bergambar Panah Keatas tabel sesuai dengan kolom yang ingin diurutkan. Pengurutan dapat dilakukan secara menaik(ascending) atau menurun(descending). Contoh di atas diurutkan secara ascending berdasarkan Nama.
 
 ### 6. Searching Data Mahasiswa
